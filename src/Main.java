@@ -8,10 +8,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         mainMenu();
-        shakeBall();
     }
 
     public static void mainMenu(){
+        //I copied this art from http://www.ascii-code.com/ascii-art/sports-and-outdoors/billiards.php
+        
         System.out.println("        ____\n" +
                 "    ,dP9CGG88@b,\n" +
                 "  ,IP  _   Y888@@b,\n" +
